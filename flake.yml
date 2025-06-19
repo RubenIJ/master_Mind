@@ -3,10 +3,10 @@ name: Python Mastermind Test
 on:
   push:
     paths:
-      - 'master_Mind.py'
+      - 'master_Mind/master_Mind.py'
   pull_request:
     paths:
-      - 'master_Mind.py'
+      - 'master_Mind/master_Mind.py'
 
 jobs:
   test:
@@ -22,4 +22,5 @@ jobs:
         python-version: '3.10'
 
     - name: Run Mastermind
-      run: python3 master_Mind.py
+      run: python3 master_Mind/master_Mind.py
+
