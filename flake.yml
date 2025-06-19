@@ -1,0 +1,25 @@
+name: Python Mastermind Test
+
+on:
+  push:
+    paths:
+      - 'master_Mind.py'
+  pull_request:
+    paths:
+      - 'master_Mind.py'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Run Mastermind
+      run: python3 master_Mind.py
