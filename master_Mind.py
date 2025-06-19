@@ -6,7 +6,7 @@
 import random
 import os
 
-ADMIN_PASS = "Rubensigma"
+ADMIN_PASS = "Rubensigma69"
 print("MasterMind")
 
 valid_colors = ["red", "blue", "green", "yellow", "purple", "orange"]
