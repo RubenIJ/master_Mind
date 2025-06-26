@@ -1,0 +1,73 @@
+commit f8b91cb4accd5de222bc1f080f0fc187af33466b
+Author: ThankY0uu <ty@MSI.localdomain>
+Date:   Thu Jun 19 14:59:08 2025 +0200
+
+    flake edit
+
+commit 2fc588abaa97847baa4b9ffbdc656f1b4a997249
+Author: ThankY0uu <ty@MSI.localdomain>
+Date:   Thu Jun 19 14:53:30 2025 +0200
+
+    test
+
+commit 59f9db32992d7019a4bfc2fafc64394729369147
+Author: RubenIJ <ruben@LaptopRuben.>
+Date:   Thu Jun 19 14:47:45 2025 +0200
+
+    flake add
+
+commit 8aa3b6674fbab8f998fcd94fa37bdb5d9f9027f1
+Author: ThankY0uu <ty@MSI.localdomain>
+Date:   Thu Jun 19 14:15:36 2025 +0200
+
+    test2
+
+commit 62108f1040d38e848df153cc304941a10fa1d7cb
+Author: ThankY0uu <ty@MSI.localdomain>
+Date:   Thu Jun 19 14:13:23 2025 +0200
+
+    test
+
+commit 072e8df025023c5730f2ea542621d061dbbaba27
+Author: Ruben <1212236@student.roc-nijmegen.nl>
+Date:   Thu Jun 19 13:49:47 2025 +0200
+
+    Create action.yml
+
+commit 3dd5094abe4c3f972588094c33b6d298c0766052
+Author: RubenIJ <ruben@LaptopRuben.>
+Date:   Thu Jun 19 13:42:57 2025 +0200
+
+    Fix: Correct path to master_Mind.py in workflow
+
+commit 083a3e316c6e687155bca3ec2d98d42e6f5d4510
+Author: RubenIJ <ruben@LaptopRuben.>
+Date:   Thu Jun 19 13:14:25 2025 +0200
+
+    Initial commit with GitHub Actions
+
+commit ab1c47761b76935deddf0f34cf3f9f592195af28
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 15:04:09 2025 +0200
+
+    Create Dockerfile
+
+commit c8f320b0e828d72833d63a648f07ac29f2460218
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 13:08:41 2025 +0200
+
+    Create master_Mind.py
+    
+    from ubuntu docker
+
+commit 7308edd396b1955e87eaafaf94e41de0ff765f77
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 13:06:42 2025 +0200
+
+    Update README.md
+
+commit 12cc29edb8db47235daf42610b84f2e307cb9520
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 13:00:12 2025 +0200
+
+    Initial commit
